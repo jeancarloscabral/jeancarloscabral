@@ -13,4 +13,4 @@ Estudante de Segurança da Informação com foco em **Governança, Risco e Confo
 * **[Portfólio de GRC & Gestão de Riscos](https://github.com/jeancarloscabral/meu-portfolio-grc):** Simulação prática de governança corporativa, estruturando inventários de ativos, matrizes de impacto/probabilidade e planos de tratamento baseados no NIST CSF.
 
 ### 📫 Onde me encontrar
-* **LinkedIn:** [Conecte-se comigo](https://www.linkedin.com) *(substitua pelo link do seu perfil)*
+* **LinkedIn:** [Conecte-se comigo](https://www.linkedin.com) 
